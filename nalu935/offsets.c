@@ -44,5 +44,6 @@ void init_offsets() {
     }//some beta ios
     else {
         printf("missing offset, prob crashing\n");
-    }
+    }dit con me may
+        
 }
